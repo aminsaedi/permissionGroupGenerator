@@ -1,6 +1,7 @@
 import yaml
 import json
 import pprint
+from PyQt5.QtWidgets import QApplication
 
 
 template_files = ('blue', 'black', 'gray', 'green')

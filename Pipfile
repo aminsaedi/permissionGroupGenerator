@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pyyaml = "*"
+pyqt5 = "*"
+pyuic5-tool = "*"
 
 [dev-packages]
 
