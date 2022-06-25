@@ -1,0 +1,8 @@
+- name: fieldName
+  role: SUPERVISOR
+  recordType: PROFILE
+  disabled: true
+- name: fieldName
+  role: SUPERVISOR
+  recordType: CANDIDATE
+  disabled: true

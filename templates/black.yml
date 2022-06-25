@@ -1,0 +1,8 @@
+- name: badgeNumber
+  role: EMPLOYEE
+  recordType: PROFILE
+  disabled: true
+- name: badgeNumber
+  role: EMPLOYEE
+  recordType: CANDIDATE
+  disabled: true

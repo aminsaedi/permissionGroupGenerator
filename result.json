@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Picture",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "Picture",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "lastName",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "lastName",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    }
+]
