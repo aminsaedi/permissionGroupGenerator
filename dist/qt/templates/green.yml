@@ -1,0 +1,16 @@
+- name: hasAccess
+  role: EMPLOYEE
+  recordType: PROFILE
+  visible: false
+- name: hasAccess
+  role: EMPLOYEE
+  recordType: CANDIDATE
+  visible: false
+- name: hasAccess
+  role: SUPERVISOR
+  recordType: PROFILE
+  visible: false
+- name: hasAccess
+  role: SUPERVISOR
+  recordType: CANDIDATE
+  visible: false

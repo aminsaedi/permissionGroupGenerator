@@ -1,0 +1,306 @@
+[
+    {
+        "name": "badgeNumber",
+        "blue": false,
+        "green": false,
+        "red": false,
+        "black": true,
+        "gray": false
+    },
+    {
+        "name": "tempBadgeNumber",
+        "blue": false,
+        "green": false,
+        "red": false,
+        "black": true,
+        "gray": false
+    },
+    {
+        "name": "Picture",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "employeeCode",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "jobTitle",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "seniorityDate",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "seniorityDate2",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "EmpStatus",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "PositionStatus",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "BenefitPlans",
+        "blue": true,
+        "green": false,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "hasAccess",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "isProfileLocked",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "firstName",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "lastName",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "middleName",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "nickName",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "miscDate",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "birthDate",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "gender",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "maritalStatus",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "BankAccount",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "OrganizationProperties",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "highestLevelEducation",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "graduation",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "isNonResident",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "criminalCheck",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Compensation",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Taxation",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Groups",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Permissions",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Training",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Skills",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "License",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Assets",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "PayItems",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "Notes",
+        "blue": false,
+        "green": true,
+        "red": false,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "recordType",
+        "blue": false,
+        "green": false,
+        "red": true,
+        "black": false,
+        "gray": false
+    },
+    {
+        "name": "templateId",
+        "blue": false,
+        "green": false,
+        "red": true,
+        "black": false,
+        "gray": false
+    }
+]

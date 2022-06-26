@@ -1,0 +1,758 @@
+[
+    {
+        "name": "badgeNumber",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "badgeNumber",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "tempBadgeNumber",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "tempBadgeNumber",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "Picture",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "Picture",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "employeeCode",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "employeeCode",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "jobTitle",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "jobTitle",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "seniorityDate",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "seniorityDate",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "seniorityDate2",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "seniorityDate2",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "EmpStatus",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "EmpStatus",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "PositionStatus",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "PositionStatus",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "BenefitPlans",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "disabled": true
+    },
+    {
+        "name": "BenefitPlans",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "disabled": true
+    },
+    {
+        "name": "hasAccess",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "hasAccess",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "hasAccess",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "hasAccess",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "isProfileLocked",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "isProfileLocked",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "isProfileLocked",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "isProfileLocked",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "firstName",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "firstName",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "firstName",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "firstName",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "lastName",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "lastName",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "lastName",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "lastName",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "middleName",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "middleName",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "middleName",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "middleName",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "nickName",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "nickName",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "nickName",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "nickName",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "miscDate",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "miscDate",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "miscDate",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "miscDate",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "birthDate",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "birthDate",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "birthDate",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "birthDate",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "gender",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "gender",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "gender",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "gender",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "maritalStatus",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "maritalStatus",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "maritalStatus",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "maritalStatus",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "BankAccount",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "BankAccount",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "BankAccount",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "BankAccount",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "OrganizationProperties",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "OrganizationProperties",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "OrganizationProperties",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "OrganizationProperties",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "highestLevelEducation",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "highestLevelEducation",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "highestLevelEducation",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "highestLevelEducation",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "graduation",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "graduation",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "graduation",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "graduation",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "isNonResident",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "isNonResident",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "isNonResident",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "isNonResident",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "criminalCheck",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "criminalCheck",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "criminalCheck",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "criminalCheck",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Compensation",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Compensation",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Compensation",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Compensation",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Taxation",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Taxation",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Taxation",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Taxation",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Groups",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Groups",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Groups",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Groups",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Permissions",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Permissions",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Permissions",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Permissions",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Training",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Training",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Training",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Training",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Skills",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Skills",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Skills",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Skills",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "License",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "License",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "License",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "License",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Assets",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Assets",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Assets",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Assets",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "PayItems",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "PayItems",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "PayItems",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "PayItems",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Notes",
+        "role": "EMPLOYEE",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Notes",
+        "role": "EMPLOYEE",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "Notes",
+        "role": "SUPERVISOR",
+        "recordType": "PROFILE",
+        "visible": false
+    },
+    {
+        "name": "Notes",
+        "role": "SUPERVISOR",
+        "recordType": "CANDIDATE",
+        "visible": false
+    },
+    {
+        "name": "recordType",
+        "role": "*",
+        "recordType": "*",
+        "visible": false
+    },
+    {
+        "name": "templateId",
+        "role": "*",
+        "recordType": "*",
+        "visible": false
+    }
+]

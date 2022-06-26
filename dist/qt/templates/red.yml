@@ -1,0 +1,4 @@
+- name: hasAccess
+  role: "*"
+  recordType: "*"
+  visible: false
